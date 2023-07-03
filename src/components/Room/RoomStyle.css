@@ -1,0 +1,17 @@
+.enter-button {
+  padding: 10px;
+  border: none;
+  background-color: darkslategray;
+  color: white;
+  cursor: pointer;
+  width: 50%;
+  justify-content: "center";
+  align-self: "center";
+  display: "flex";
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 10px;
+}
+
+.parent-room {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
